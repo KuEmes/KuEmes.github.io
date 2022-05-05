@@ -1,0 +1,79 @@
+body {
+    font-size: 1em;
+    font-family: sans-serif, serif;
+}
+main {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+p a:link {
+    text-decoration: underline;
+    color: rgb(198, 233, 255);
+}
+p a:visited {
+    text-decoration: underline;
+    color: rgb(163, 163, 163);
+}
+footer a:link {
+    text-decoration: underline;
+    color: rgb(198, 233, 255);
+}
+footer a:visited {
+    text-decoration: underline;
+    color: rgb(163, 163, 163);
+}
+#banner{
+    background-image: url(media/sorozatok_banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 26vw;
+    padding: 0;
+}
+#banner_cw{
+    background-image: url(media/cw_banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 26vw;
+    padding: 0;
+}
+#title-wrapper{
+    height: 100%;
+    display: grid;
+}
+#title{
+    align-self: flex-end;
+    background-color: rgba(29, 29, 29, 0.9);
+    border-top: 1pt solid #6c757d;
+    border-bottom: 1pt solid #6c757d;
+}
+h1 {
+    text-indent: 1%;
+    font-size: 3em;
+    color: white;
+}
+p {
+    text-align: justify;
+}
+.skip-to-content-link {
+    left: 50%;
+    position: absolute;
+    transform: translateY(-100%);
+}
+video {
+    width: 100%;
+    height: auto;
+}
+section {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+footer {
+    margin-top: 2em;
+    padding-top: 2em;
+    margin-bottom: 2em;
+    border-top: 1pt solid #6c757d;
+}
+#collapse img {
+    width: 100px;
+    height: 100px;
+}
