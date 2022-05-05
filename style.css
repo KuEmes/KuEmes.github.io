@@ -35,7 +35,9 @@ main a:visited {
     background-size: cover;
     background-repeat: no-repeat;
     height: 26vw;
-    padding: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
     padding-top: 60px;
     overflow-y: hidden;
 }
@@ -44,7 +46,9 @@ main a:visited {
     background-size: cover;
     background-repeat: no-repeat;
     height: 26vw;
-    padding: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
     padding-top: 60px;
     overflow-y: hidden;
 }
@@ -53,7 +57,9 @@ main a:visited {
     background-size: cover;
     background-repeat: no-repeat;
     height: 26vw;
-    padding: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
     padding-top: 60px;
     overflow-y: hidden; 
 }
@@ -62,7 +68,9 @@ main a:visited {
     background-size: cover;
     background-repeat: no-repeat;
     height: 26vw;
-    padding: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
     padding-top: 60px;
     overflow-y: hidden;
 }
