@@ -35,9 +35,7 @@ main a:visited {
     background-size: cover;
     background-repeat: no-repeat;
     height: 26vw;
-    padding-left: 0;
-    padding-right: 0;
-    padding-bottom: 0;
+    padding: 0;
     padding-top: 60px;
     overflow-y: hidden;
 }
@@ -46,10 +44,7 @@ main a:visited {
     background-size: cover;
     background-repeat: no-repeat;
     height: 26vw;
-    padding-left: 0;
-    padding-right: 0;
-    padding-bottom: 0;
-    padding-top: 60px;
+    padding: 0;
     overflow-y: hidden;
 }
 #banner_rebels {
@@ -57,10 +52,7 @@ main a:visited {
     background-size: cover;
     background-repeat: no-repeat;
     height: 26vw;
-    padding-left: 0;
-    padding-right: 0;
-    padding-bottom: 0;
-    padding-top: 60px;
+    padding: 0;
     overflow-y: hidden; 
 }
 #banner_mandalorian {
@@ -68,10 +60,7 @@ main a:visited {
     background-size: cover;
     background-repeat: no-repeat;
     height: 26vw;
-    padding-left: 0;
-    padding-right: 0;
-    padding-bottom: 0;
-    padding-top: 60px;
+    padding: 0;
     overflow-y: hidden;
 }
 #title-wrapper{
