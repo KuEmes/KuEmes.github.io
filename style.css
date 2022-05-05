@@ -36,6 +36,7 @@ main a:visited {
     background-repeat: no-repeat;
     height: 26vw;
     padding: 0;
+    padding-top: 60px;
     overflow-y: hidden;
 }
 #banner_cw{
@@ -44,6 +45,7 @@ main a:visited {
     background-repeat: no-repeat;
     height: 26vw;
     padding: 0;
+    padding-top: 60px;
     overflow-y: hidden;
 }
 #banner_rebels {
@@ -52,6 +54,7 @@ main a:visited {
     background-repeat: no-repeat;
     height: 26vw;
     padding: 0;
+    padding-top: 60px;
     overflow-y: hidden; 
 }
 #banner_mandalorian {
@@ -60,6 +63,7 @@ main a:visited {
     background-repeat: no-repeat;
     height: 26vw;
     padding: 0;
+    padding-top: 60px;
     overflow-y: hidden;
 }
 #title-wrapper{
